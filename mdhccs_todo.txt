@@ -1,0 +1,165 @@
+runstart:
+
+x Toot
+x sell gems
+x buy accordion
+
+x numberology
+x borrowed time
+
+x Terminal
+
+x saber familiar
+
+x floundry codpiece
+
+x pantogram
+
+x boombox meat
+
+------------------
+level:
+
+x camera ml+reverser
+
+buffs
+
+love potion
+
+tunnel of lov
+
+map, saber yr [sort of] - could use banish and a nostalgia
+
+dramatic range + potions
+
+god lobster
+
+NEP fights
+
+free kills
+
+kramco
+sausage fight
+
+ghosts
+
+------------------
+
+familiar weight:
+
+metoer shower
+
+------------------
+
+item:
+
+drinking
+
+------------------
+
+non-combat:
+
+god lobster
+
+------------------
+
+spell:
+
+cargo
+
+briefcase
+
+------------------
+weapon:
+
+ghosts
+
+------------------
+
+https://github.com/phulin/bean-hccs/blob/main/src/index.ts
+
+open skeleton store
+
+January shirt
+
+profchain
+
+fax
+
+------------------
+
+https://github.com/phulin/bean-hccs/blob/softcore/KoLmafia/scripts/hccs.ash
+
+pizza
+
+
+------------------
+
+chewing gum and use
+hermit permit
+
+
+cloak lantern
+
+
+mirror potion
+
+fantasy realm hat
+
+potted plant
+
+briefcase
+
+lathe epee
+
+crazy horse
+
+
+
+coil wire
+
+
+
+make potions
+
+map, extract jelly, snokebomb
+
+pillkeeper sr
+
+make full meat tank
+make blood-faced volleyball
+
+
+sell stuff
+
+
+
+stench jelly, NEP, stats buff
+
+
+
+
+fortune
+bee's knees
+pillkeeper hulkien
+cold filtered water
+buffs
+
+ghost noob cave snokebomb
+
+change familiar 
+familiar jacks + equip
+
+
+
+backup
+
+
+work out hp buffing
+
+tests
+
+wishing
+
+hatter
+
